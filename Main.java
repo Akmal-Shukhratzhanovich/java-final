@@ -22,7 +22,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 
 public class Main extends Application {
-    // 游戏配置变量
+    // qazaqsha zhaz
     static int speed = 7; // 蛇的移动速度
     static int foodcolor = 0; // 食物颜色索引
     static int width = 32; // 游戏网格宽度
